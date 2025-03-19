@@ -5,7 +5,5 @@ document.addEventListener('DOMContentLoaded', function () {
     aumentarFonteBotao.addEventListener('click', function () {
         tamanhoAtualFonte += 0.1;
         document.body.style.fontSize = `${tamanhoAtualFonte}rem`
-    }
-    )
-}
-)
+    })
+})
